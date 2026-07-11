@@ -63,14 +63,6 @@ I also create content around tech and my learning journey on **YouTube**, **Medi
 
 <!-- SECTION D: SOCIAL MEDIA LINKS -->
 ### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.youtube.com/@REPLACE_WITH_YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@REPLACE_WITH_YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
   <a href="https://www.instagram.com/_sai.chowdary">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -99,21 +91,14 @@ I also create content around tech and my learning journey on **YouTube**, **Medi
 
 <!-- SECTION F: GITHUB TROPHIES -->
 ### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saiteja48&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
 ---
 
 <!-- SECTION H: FOOTER -->
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.youtube.com/@REPLACE_WITH_YOUR_HANDLE">YouTube</a> •
-  <a href="https://medium.com/@REPLACE_WITH_YOUR_HANDLE">Medium</a> •
   <a href="https://www.instagram.com/_sai.chowdary">Instagram</a> •
-  <a href="https://www.linkedin.com/in/venkata-sai-teja-ponnam">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/venkata-sai-teja-ponnam">LinkedIn</a> •
 </p>
 
 <p align="left">
