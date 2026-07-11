@@ -113,7 +113,7 @@ I also create content around tech and my learning journey on **YouTube**, **Medi
   <a href="https://www.youtube.com/@REPLACE_WITH_YOUR_HANDLE">YouTube</a> •
   <a href="https://medium.com/@REPLACE_WITH_YOUR_HANDLE">Medium</a> •
   <a href="https://www.instagram.com/_sai.chowdary">Instagram</a> •
-  <a href="https://www.linkedin.com/in/venkata-sai-teja">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/venkata-sai-teja-ponnam">LinkedIn</a>
 </p>
 
 <p align="left">
