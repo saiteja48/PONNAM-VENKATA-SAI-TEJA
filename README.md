@@ -69,7 +69,7 @@ I also create content around tech and my learning journey on **YouTube**, **Medi
   <a href="https://www.linkedin.com/in/venkata-sai-teja">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/919876543210">
+  <a href="https://wa.me/8179473485">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
@@ -97,7 +97,7 @@ During my acadamic journey i do the projects on machine learning.The title of th
 <p align="left">
   <a href="https://www.instagram.com/_sai.chowdary">Instagram</a> •
   <a href="https://www.linkedin.com/in/venkata-sai-teja-ponnam">LinkedIn</a> •
-  <a href="https://wa.me/919876543210">
+  <a href="https://wa.me/8179473485">
   
 </p>
 
