@@ -25,7 +25,7 @@ I'm a **Fresher** stepping confidently into the world of software development �
 I also create content around tech and my learning journey on **YouTube**, **Medium**, and **Instagram** — sharing what I learn as I learn it, because teaching is the fastest way to master something. 🎥✍️
 
 **A few fun facts about me:**
-- 🐍 I speak fluent Python, and I'm slowly getting HTML, CSS & JS to cooperate too
+- 🐍 I Good at Python, and HTML, CSS & JS to cooperate too
 - 🧠 Diving deep into Machine Learning — teaching machines to think is my kind of fun
 - 📊 Excel isn't just a spreadsheet tool for me, it's basically a second language
 - ☕ Fueled by curiosity, Google searches, and the occasional debugging rage-quit (that I always come back from)
@@ -76,21 +76,15 @@ I also create content around tech and my learning journey on **YouTube**, **Medi
 ---
 
 <!-- SECTION E: GITHUB STATS -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saiteja48&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja48&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja48&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
 <!-- SECTION F: GITHUB TROPHIES -->
-### 🏆 GitHub Trophies
+### PROJECTS ###
+--<p>
+During my acadamic journey i do the projects on machine learning.The title of the project is "Transfer Learning For Effiecent and Accurate Image Forgery Detection".In that project we use the react for the web page designing and machine learning using ELA and CNN.
+</p>
+
 ---
 
 <!-- SECTION H: FOOTER -->
