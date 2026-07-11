@@ -97,7 +97,7 @@ During my acadamic journey i do the projects on machine learning.The title of th
 <p align="left">
   <a href="https://www.instagram.com/_sai.chowdary">Instagram</a> •
   <a href="https://www.linkedin.com/in/venkata-sai-teja-ponnam">LinkedIn</a> •
-  <a href="https://wa.me/8179473485">
+  <a href="https://wa.me/8179473485">Whatsapp</a>
   
 </p>
 
